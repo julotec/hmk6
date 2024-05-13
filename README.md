@@ -31,7 +31,7 @@ pip install pandas numpy scikit-learn matplotlib
 
 ```
 
-##Usage
+## Usage
 
 1. Clone this repository to your local machine.
 2. Navigate to the directory containing the code.
