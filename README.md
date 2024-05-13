@@ -26,8 +26,10 @@ To run the code in this repository, you need to have Python installed. You also 
 
 You can install these libraries using pip:
 
-```bash
+```
 pip install pandas numpy scikit-learn matplotlib
+
+```
 
 ##Usage
 
